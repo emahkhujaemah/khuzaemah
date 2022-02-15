@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Hi there 👋 , I'm Bagus!
+Currently working with Framework Laravel, but I love learn new thing in programming such as Javascript, Python. 
 
 **khuzaemah/khuzaemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
