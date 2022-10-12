@@ -14,10 +14,10 @@ Currently working with Framework Laravel, but I love learn new thing in programm
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently freelancer on Fiverr </br>
     - 🌱 I’m currently learning Laravel , React and Programming Javascript and PHP </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+    - 👯 I’m looking to collaborate on make something to change this World. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="khuza.emah24@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
@@ -29,10 +29,10 @@ Currently working with Framework Laravel, but I love learn new thing in programm
 ### Let's connect!
 <p>
     <a href="https://khuzaemah.github.io/" target="blank"><img src="https://img.shields.io/badge/Website-https://khuzaemah.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/emah-khujaemah-58b080196/" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/khuzaemah_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://twitter.com/YoshikoNightray" target="blank"><img src="https://img.shields.io/badge/khuzaemah_-30302f?style=flat&logo=twitter" /></a>
+    <a href="#" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
