@@ -12,8 +12,8 @@ Currently working with Framework Laravel, but I love learn new thing in programm
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
+    - 🔭 I’m currently freelancer on Fiverr </br>
+    - 🌱 I’m currently learning Laravel , React and Programming Javascript and PHP </br>
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
