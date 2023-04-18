@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Emah!
-I currently study Machine Learning at Bangkit Academy using programming Python, I also have basic experience with Framework Laravel and Programming PHP and Javascript. But I love learning new things like Data Science, DevOps, Network Security, etc. 
+I currently study Machine Learning at Bangkit Academy using programming Python, I also have basic experience with Framework Laravel and programming Php and Javascript. But I love learning new things like Data Science, DevOps, Network Security, etc. 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
