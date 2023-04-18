@@ -28,7 +28,7 @@ Currently working with Framework Laravel, but I love learn new thing in programm
 ### Let's connect!
 <p>
     <a href="https://khuzaemah.github.io/" target="blank"><img src="https://img.shields.io/badge/Website-https://khuzaemah.com-green?" /></a>
-    <a href="https://www.linkedin.com/in/emah-khujaemah-58b080196/" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/emah-khujaemah/" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/khuzaemah-30302f?style=flat&logo=medium" /></a>
     <a href="https://twitter.com/YoshikoNightray" target="blank"><img src="https://img.shields.io/badge/khuzaemah_-30302f?style=flat&logo=twitter" /></a>
     <a href="#" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
