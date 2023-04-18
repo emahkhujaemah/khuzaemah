@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Emah!
-Currently working with Framework Laravel, but I love learn new thing in programming such as Php, Javascript, and Python. 
+I currently study Machine Learning at Bangkit Academy using programming Python, I also have basic experience with Framework Laravel and Programming PHP and Javascript. But I love learning new things like Data Science, DevOps, Network Security, etc. 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
@@ -12,7 +12,7 @@ Currently working with Framework Laravel, but I love learn new thing in programm
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently freelancer on Fiverr </br>
-    - 🌱 I’m currently learning Laravel , React and Programming Javascript and PHP </br>
+    - 🌱 I’m currently learning Python, Machine Learning, etc </br>
     - 👯 I’m looking to collaborate on make something to change this World. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
